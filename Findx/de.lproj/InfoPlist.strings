@@ -1,0 +1,12 @@
+/* (No Commment) */
+"NSCameraUsageDescription" = "Hiermit können Sie Fotos machen und hochladen.";
+
+/* (No Commment) */
+"NSLocationWhenInUseUsageDescription" = "Von Ihnen besuchte Websites können Ihren Standort abfragen.";
+
+/* (No Commment) */
+"NSMicrophoneUsageDescription" = "Hiermit können Sie Videos aufnehmen und hochladen.";
+
+/* (No Commment) */
+"NSPhotoLibraryUsageDescription" = "Hiermit können Sie Fotos speichern und hochladen.";
+

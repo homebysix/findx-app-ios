@@ -1,0 +1,252 @@
+/* Button on About screen */
+"About.learnMoreButton" = "Dalšne informacije";
+
+/* Label on About screen */
+"About.missionLabel" = "%@ se wót Mozilla gótujo. Naša misija jo woplěwanje strowego, wótwórjonego interneta.";
+
+/* Label on About screen */
+"About.privateBullet1" = "Pytajśo a pśeglědujśo direktnje w nałoženju";
+
+/* Label on About screen */
+"About.privateBullet2" = "Blokujśo pśeslědowaki (abo aktualizěrujśo nastajenja, aby pśeslědowaki dowólił)";
+
+/* Label on About screen */
+"About.privateBullet3" = "Wulašujśo cookieje a pytańsku pśeglědowańsku historiju";
+
+/* Label on About screen */
+"About.privateBulletHeader" = "Wužywajśo jen ako priwatny wobglědowak:";
+
+/* Label for row in About screen */
+"About.rowHelp" = "Pomoc";
+
+/* Link to Privacy Notice in the About screen */
+"About.rowPrivacy" = "Powěźeńka priwatnosći";
+
+/* Label for row in About screen */
+"About.rowRights" = "Waše pšawa";
+
+/* Label on About screen */
+"About.safariBullet1" = "Blokěrujśo pśeslědowaki za pólěpšonu priwatnosć";
+
+/* Label on About screen */
+"About.safariBullet2" = "Blokěrujśo webpisma, aby wjelikosć boka reducěrował";
+
+/* Label on About screen */
+"About.safariBulletHeader" = "Wužywajśo jen ako rozšyrjenje za Safari:";
+
+/* Title for the About screen */
+"About.screenTitle" = "Wó";
+
+/* Label on About screen */
+"About.topLabel" = "%@ dajo wam kontrolu.";
+
+/* Accessibility label for the back button */
+"Browser.backLabel" = "Slědk";
+
+/* Accessibility label for the forward button */
+"Browser.forwardLabel" = "Doprědka";
+
+/* Accessibility label for the reload button */
+"Browser.reloadLabel" = "Znowego zacytaś";
+
+/* Accessibility label for the settings button */
+"Browser.settingsLabel" = "Nastajenja";
+
+/* Accessibility label for the share button */
+"Browser.shareLabel" = "Źěliś";
+
+/* Accessibility label for the stop button */
+"Browser.stopLabel" = "Zastajiś";
+
+/* Button label to reload the error page */
+"Error.tryAgainButton" = "Hyšći raz wopytaś";
+
+/* Button label used for cancelling to open another app from Focus */
+"ExternalAppLink.cancelTitle" = "Pśetergnuś";
+
+/* Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar. */
+"ExternalAppLink.messageTitle" = "%@ co druge nałoženje wócyniś";
+
+/* Button label for opening another app from Focus */
+"ExternalAppLink.openTitle" = "Wócyniś";
+
+/* Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.callButton" = "Zazwóniś";
+
+/* Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.cancelButton" = "Pśetergnuś";
+
+/* Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.emailButton" = "E-mail";
+
+/* Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.messageTitleWithPlaceholder" = "Spušćaśo něnto %@.";
+
+/* Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openAppStoreButton" = "App Store wócyniś";
+
+/* Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. */
+"ExternalLink.openAppStoreTitle" = "%@ co App Store wócyniś.";
+
+/* Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openMapsButton" = "Kórty wócyniś";
+
+/* Label on button to dismiss first run UI */
+"FirstRun.buttonLabel" = "Jo, som zrozměł!";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelDescription" = "Blokěrujśo pśeslědowaki online awtomatiski, mjaztym až pśeglědujośo. Pótusniśo pótom, aby woglědane boki, pytanja, cookije a gronidła ze swójogo rěda wulašował.";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelTagline" = "Pśeglědujśo mimo, až njeby nichten wobglědował.";
+
+/* Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681 */
+"Focus.handoffSyncing" = "Apple Handoff synchronizěrujo";
+
+/* First label for product description on the home screen */
+"Home.descriptionLabel1" = "Awtomatiski priwatny modus.";
+
+/* Second label for product description on the home screen */
+"Home.descriptionLabel2" = "Pśeglědowaś. Wulašowaś. Wóspjetowaś.";
+
+/* Label in share alert to cancel the alert */
+"Open.Cancel" = "Pśetergnuś";
+
+/* Label in share alert to open the URL in Firefox */
+"Open.Firefox" = "Firefox (priwatny modus)";
+
+/* Label in share alert to open the full system share menu */
+"Open.More" = "Wěcej";
+
+/* Label in share alert to open the URL in Safari */
+"Open.Safari" = "Safari";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsContentBlockers" = "Pótusniśo Safari a wubjeŕśo pótom wopśimjeśowe blokowaki";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsEnable" = "%@ zmóžniś";
+
+/* Error label when the blocker is not enabled, shown in the intro and main app when disabled */
+"Safari.instructionsNotEnabled" = "%@ njejo zmóžnjony.";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsOpen" = "Nałoženje nastajenjow wócyniś";
+
+/* Alert message shown when toggling the Content blocker */
+"Settings.blockOtherMessage" = "Blokěrowanje drugich pśeslědowaki móžo někotare wideo a webboki kazyś.";
+
+/* Button label for declining Content blocker alert */
+"Settings.blockOtherNo" = "Ně, źěkujom se";
+
+/* Button label for accepting Content blocker alert */
+"Settings.blockOtherYes" = "Rozmějom";
+
+/* Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar) */
+"Settings.detailTextSendUsageData" = "Mozilla se procujo, jano informacije gromaźiś, kótarež trjebamy, aby %@ za kuždego póbitowaś a pólěpšyś.";
+
+/* Subtitle for Send Anonymous Usage Data toggle on main screen */
+"Settings.learnMore" = "Dalšne informacije.";
+
+/* Title for settings screen */
+"Settings.screenTitle" = "Nastajenja";
+
+/* Title for the search engine row */
+"Settings.searchSection" = "PYTNICA";
+
+/* Title for the search engine selection screen */
+"Settings.searchTitle" = "Pytnica";
+
+/* Label for Safari integration section */
+"Settings.sectionIntegration" = "INTEGRACIJA";
+
+/* Section label for Mozilla toggles */
+"Settings.sectionMozilla" = "MOZILLA";
+
+/* Section label for performance toggles */
+"Settings.sectionPerformance" = "WUGBAŚE";
+
+/* Section label for privacy toggles */
+"Settings.sectionPrivacy" = "PRIWATNOSĆ";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAds" = "Wabjeńske pśeslědowaki blokěrowaś";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAnalytics" = "Analyzowe pśeslědowaki blokěrowaś";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockFonts" = "Webpisma blokěrowaś";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockOther" = "Druge wopśimjeśowe pśeslědowaki blokěrowaś";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockSocial" = "Socialne pśeslědowaki blokěrowaś";
+
+/* Label subtitle for toggle on main screen */
+"Settings.toggleOtherSubtitle" = "Kazy snaź někotare wideo a webboki";
+
+/* Safari toggle label on settings screen */
+"Settings.toggleSafari" = "Safari";
+
+/* Label for Send Usage Data toggle on main screen */
+"Settings.toggleSendUsageData" = "Wužywańske daty pósłaś";
+
+/* Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string. */
+"ShareMenu.GetFirefox" = "Firefox wobstaraś";
+
+/* Text for the share menu option when a user wants to open a page in Focus. */
+"ShareMenu.OpenInFocus" = "W %@ wócyniś";
+
+/* Label for cancel button shown when entering a URL or search */
+"URL.cancelLabel" = "Pśetergnuś";
+
+/* Text for the URL context menu when a user long presses on the URL bar with clipboard contents. */
+"URL.contextMenu" = "Zasajźiś a start";
+
+/* Erase button in the URL bar */
+"URL.eraseButtonLabel" = "WULAŠOWAŚ";
+
+/* Message shown after pressing the Erase button */
+"URL.eraseMessageLabel" = "Waša pśeglědowańska historija jo se wulašowała.";
+
+/* Placeholder text shown in the URL bar before the user navigates to a page */
+"URL.placeholderText" = "Pytaś abo adresu zapódaś";
+
+/* Label displayed for search button when typing in the URL bar */
+"URL.searchLabel" = "Za %@ pytaś";
+
+/* Text for the URL bar showing the number of trackers blocked on a webpage. */
+"URL.trackersBlockedLabel" = "Pśeslědowaki blokěrowane";
+
+/* Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page. */
+"actionSheet.openIn" = "W %@ wócyniś";
+
+/* Text for the context menu when a user has a link on their clipboard. */
+"contextMenu.clipboardLink" = "Wótkaz, kótaryž sćo kopěrował: %@";
+
+/* Text for the context menu when a user wants to copy an image after long pressing it. */
+"contextMenu.copyImageTitle" = "Wobraz kopěrowaś";
+
+/* Text for the context menu when a user wants to copy a link after long pressing it. */
+"contextMenu.copyLink" = "Wótkaz kopěrowaś";
+
+/* Text for the context menu when a user wants to save an image after long pressing it. */
+"contextMenu.saveImageTitle" = "Wobraz składowaś";
+
+/* Text for the context menu when a user wants to share a link after long pressing it. */
+"contextMenu.shareLinkTitle" = "Wótkaz źěliś";
+
+/* Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open. */
+"externalAppLinkWithAppName.messageTitle" = "%1$@ co %2$@ wócyniś";
+
+/* Description for dialog used for requesting a user to enable access to Photos. */
+"photosPermission.description" = "To wam zmóžnja, wobraze na swójej kamerowej roli składowaś";
+
+/* Title for button that takes the user to system settings */
+"photosPermission.openSettings" = "Nastajenja wócyniś";
+
+/* Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar */
+"photosPermission.title" = "„%@“ pšosy wó pśistup na waše fota";
+

@@ -1,0 +1,12 @@
+/* (No Commment) */
+"NSCameraUsageDescription" = "This lets you take and upload photos.";
+
+/* (No Commment) */
+"NSLocationWhenInUseUsageDescription" = "Websites you visit may request your location.";
+
+/* (No Commment) */
+"NSMicrophoneUsageDescription" = "This lets you take and upload videos.";
+
+/* (No Commment) */
+"NSPhotoLibraryUsageDescription" = "This lets you save and upload photos.";
+

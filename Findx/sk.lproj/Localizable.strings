@@ -1,0 +1,252 @@
+/* Button on About screen */
+"About.learnMoreButton" = "Ďalšie informácie";
+
+/* Label on About screen */
+"About.missionLabel" = "%@ vyvíja Mozilla. Naša misia je podporovať zdravý a otvorený internet.";
+
+/* Label on About screen */
+"About.privateBullet1" = "Vyhľadávajte a prehliadajte priamo prostredníctvom aplikácie";
+
+/* Label on About screen */
+"About.privateBullet2" = "Blokujte sledovacie prvky (v nastaveniach môžete sledovacie prvky povoliť)";
+
+/* Label on About screen */
+"About.privateBullet3" = "Vymažte cookies, históriu vyhľadávania a prehliadania";
+
+/* Label on About screen */
+"About.privateBulletHeader" = "Používajte ho ako prehliadač:";
+
+/* Label for row in About screen */
+"About.rowHelp" = "Pomocník";
+
+/* Link to Privacy Notice in the About screen */
+"About.rowPrivacy" = "Zásady ochrany súkromia";
+
+/* Label for row in About screen */
+"About.rowRights" = "Vaše práva";
+
+/* Label on About screen */
+"About.safariBullet1" = "Vylepšite svoje súkromie blokovaním sledovacích prvkov";
+
+/* Label on About screen */
+"About.safariBullet2" = "Zmenšite veľkosť stránok blokovaním webových písiem";
+
+/* Label on About screen */
+"About.safariBulletHeader" = "Používajte ho ako rozšírenie pre Safari:";
+
+/* Title for the About screen */
+"About.screenTitle" = "O aplikácii";
+
+/* Label on About screen */
+"About.topLabel" = "%@ vám dáva kontrolu.";
+
+/* Accessibility label for the back button */
+"Browser.backLabel" = "Naspäť";
+
+/* Accessibility label for the forward button */
+"Browser.forwardLabel" = "Dopredu";
+
+/* Accessibility label for the reload button */
+"Browser.reloadLabel" = "Obnoviť";
+
+/* Accessibility label for the settings button */
+"Browser.settingsLabel" = "Nastavenia";
+
+/* Accessibility label for the share button */
+"Browser.shareLabel" = "Zdieľať";
+
+/* Accessibility label for the stop button */
+"Browser.stopLabel" = "Zastaviť";
+
+/* Button label to reload the error page */
+"Error.tryAgainButton" = "Skúsiť znova";
+
+/* Button label used for cancelling to open another app from Focus */
+"ExternalAppLink.cancelTitle" = "Zrušiť";
+
+/* Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar. */
+"ExternalAppLink.messageTitle" = "%@ chce otvoriť inú aplikáciu";
+
+/* Button label for opening another app from Focus */
+"ExternalAppLink.openTitle" = "Otvoriť";
+
+/* Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.callButton" = "Zavolať";
+
+/* Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.cancelButton" = "Zrušiť";
+
+/* Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.emailButton" = "Poslať e-mail";
+
+/* Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.messageTitleWithPlaceholder" = "Opúšťate %@.";
+
+/* Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openAppStoreButton" = "Otvoriť App Store";
+
+/* Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. */
+"ExternalLink.openAppStoreTitle" = "%@ chce otvoriť App Store.";
+
+/* Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openMapsButton" = "Otvoriť Mapy";
+
+/* Label on button to dismiss first run UI */
+"FirstRun.buttonLabel" = "OK, ROZUMIEM!";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelDescription" = "Automaticky počas prehliadania blokujte sledovacie prvky. Potom jedným ťuknutím z vášho zariadenia vymažte zoznam navštívených stránok, výsledky vyhľadávania, cookies a heslá.";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelTagline" = "Prehliadajte, akoby sa nikto nepozeral.";
+
+/* Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681 */
+"Focus.handoffSyncing" = "Apple Handoff sa synchronizuje";
+
+/* First label for product description on the home screen */
+"Home.descriptionLabel1" = "Automatické súkromné prehliadanie.";
+
+/* Second label for product description on the home screen */
+"Home.descriptionLabel2" = "Prehliadajte. Vymažte históriu. Opakujte.";
+
+/* Label in share alert to cancel the alert */
+"Open.Cancel" = "Zrušiť";
+
+/* Label in share alert to open the URL in Firefox */
+"Open.Firefox" = "Firefox (súkromné prehliadanie)";
+
+/* Label in share alert to open the full system share menu */
+"Open.More" = "Viac";
+
+/* Label in share alert to open the URL in Safari */
+"Open.Safari" = "Safari";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsContentBlockers" = "Ťuknite na Safari a vyberte Blokátory obsahu";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsEnable" = "Povoľte %@";
+
+/* Error label when the blocker is not enabled, shown in the intro and main app when disabled */
+"Safari.instructionsNotEnabled" = "%@ nie je povolený.";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsOpen" = "Otvorte aplikáciu Nastavenia";
+
+/* Alert message shown when toggling the Content blocker */
+"Settings.blockOtherMessage" = "Blokovanie ostatných sledovacích prvkov môže rozbiť niektoré videá a webové stránky.";
+
+/* Button label for declining Content blocker alert */
+"Settings.blockOtherNo" = "Nie, ďakujem";
+
+/* Button label for accepting Content blocker alert */
+"Settings.blockOtherYes" = "Rozumiem";
+
+/* Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar) */
+"Settings.detailTextSendUsageData" = "Mozilla sa usiluje zbierať len údaje, ktoré potrebujeme na vylepšenie aplikácie %@ pre všetkých.";
+
+/* Subtitle for Send Anonymous Usage Data toggle on main screen */
+"Settings.learnMore" = "Ďalšie informácie.";
+
+/* Title for settings screen */
+"Settings.screenTitle" = "Nastavenia";
+
+/* Title for the search engine row */
+"Settings.searchSection" = "VYHĽADÁVACÍ MODUL";
+
+/* Title for the search engine selection screen */
+"Settings.searchTitle" = "Vyhľadávací modul";
+
+/* Label for Safari integration section */
+"Settings.sectionIntegration" = "INTEGRÁCIA";
+
+/* Section label for Mozilla toggles */
+"Settings.sectionMozilla" = "MOZILLA";
+
+/* Section label for performance toggles */
+"Settings.sectionPerformance" = "VÝKON";
+
+/* Section label for privacy toggles */
+"Settings.sectionPrivacy" = "SÚKROMIE";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAds" = "Blokovať reklamné sledovacie prvky";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAnalytics" = "Blokovať analytické sledovacie prvky";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockFonts" = "Blokovať webové písma";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockOther" = "Blokovať ostatné sledovacie prvky";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockSocial" = "Blokovať sledovacie prvky sociálnych sietí";
+
+/* Label subtitle for toggle on main screen */
+"Settings.toggleOtherSubtitle" = "Toto môže rozbiť niektoré videá a webové stránky";
+
+/* Safari toggle label on settings screen */
+"Settings.toggleSafari" = "Safari";
+
+/* Label for Send Usage Data toggle on main screen */
+"Settings.toggleSendUsageData" = "Odosielať údaje o používaní";
+
+/* Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string. */
+"ShareMenu.GetFirefox" = "Prevziať Firefox";
+
+/* Text for the share menu option when a user wants to open a page in Focus. */
+"ShareMenu.OpenInFocus" = "Otvoriť v aplikácii %@";
+
+/* Label for cancel button shown when entering a URL or search */
+"URL.cancelLabel" = "Zrušiť";
+
+/* Text for the URL context menu when a user long presses on the URL bar with clipboard contents. */
+"URL.contextMenu" = "Prilepiť a prejsť";
+
+/* Erase button in the URL bar */
+"URL.eraseButtonLabel" = "VYMAZAŤ";
+
+/* Message shown after pressing the Erase button */
+"URL.eraseMessageLabel" = "Vaša história prehliadania bola vymazaná.";
+
+/* Placeholder text shown in the URL bar before the user navigates to a page */
+"URL.placeholderText" = "Zadajte vyhľadávanie alebo adresu";
+
+/* Label displayed for search button when typing in the URL bar */
+"URL.searchLabel" = "Vyhľadať %@";
+
+/* Text for the URL bar showing the number of trackers blocked on a webpage. */
+"URL.trackersBlockedLabel" = "Počet zablokovaných sledovacích prvkov";
+
+/* Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page. */
+"actionSheet.openIn" = "Otvoriť pomocou %@";
+
+/* Text for the context menu when a user has a link on their clipboard. */
+"contextMenu.clipboardLink" = "Skopírovaný odkaz: %@";
+
+/* Text for the context menu when a user wants to copy an image after long pressing it. */
+"contextMenu.copyImageTitle" = "Kopírovať obrázok";
+
+/* Text for the context menu when a user wants to copy a link after long pressing it. */
+"contextMenu.copyLink" = "Kopírovať odkaz";
+
+/* Text for the context menu when a user wants to save an image after long pressing it. */
+"contextMenu.saveImageTitle" = "Uložiť obrázok";
+
+/* Text for the context menu when a user wants to share a link after long pressing it. */
+"contextMenu.shareLinkTitle" = "Zdieľať odkaz";
+
+/* Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open. */
+"externalAppLinkWithAppName.messageTitle" = "%1$@ chce otvoriť aplikáciu %2$@";
+
+/* Description for dialog used for requesting a user to enable access to Photos. */
+"photosPermission.description" = "Toto vám umožní uložiť obrázok medzi vaše fotky";
+
+/* Title for button that takes the user to system settings */
+"photosPermission.openSettings" = "Otvoriť nastavenia";
+
+/* Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar */
+"photosPermission.title" = "“%@” žiada o prístup k vašim fotografiám";
+

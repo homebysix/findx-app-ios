@@ -1,0 +1,11 @@
+diff a/Findx/UIConstants.swift b/Findx/UIConstants.swift	(rejected hunks)
+@@ -50,7 +51,8 @@ struct UIConstants {
+         static let toolbarButtonNormal = UIColor.darkGray
+         static let urlTextBackground = UIColor(white: 1, alpha: 0.2)
+         static let urlTextFont = UIColor.white
+-        static let urlTextHighlight = UIColor(rgb: 0xB5007F)
++//        static let urlTextHighlight = UIColor(rgb: 0xB5007F)
++        static let urlTextHighlight = UIColor(hexString:"#1e93d1") 
+         static let urlTextPlaceholder = UIColor(white: 1, alpha: 0.4)
+         static let urlTextShadow = UIColor.black
+     }

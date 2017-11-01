@@ -1,0 +1,49 @@
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
+
+import Foundation
+
+let FINDX_COOKIE_DOMAIN = ".findx."
+
+class WebCacheUtils {
+    static func reset() {
+        print("> reset() called")
+        var findxCookiesArr = [HTTPCookie]()
+        URLCache.shared.removeAllCachedResponses()
+        HTTPCookieStorage.shared.cookies?.forEach({ (cookie) in
+            print("> cookie: \(cookie)")
+            if cookie.domain.contains(FINDX_COOKIE_DOMAIN){
+                print("!!! FOUND cookie for findx: \(cookie)")
+                findxCookiesArr.append(cookie)
+            }else{
+                HTTPCookieStorage.shared.deleteCookie(cookie)
+            }
+        })
+        if findxCookiesArr.count != 0 {
+            FindxCookiesHandler.shared.removeAllCookies()
+            FindxCookiesHandler.shared.saveCookies(findxCookiesArr)
+        }
+
+        // Delete other remnants in the cache directory, such as HSTS.plist.
+        if let cachesPath = NSSearchPathForDirectoriesInDomains(.cachesDirectory, .userDomainMask, true).first {
+            FileManager.default.removeItemAndContents(path: cachesPath)
+        }
+
+        // Delete other cookies, such as .binarycookies files.
+        if let libraryPath = NSSearchPathForDirectoriesInDomains(.libraryDirectory, .userDomainMask, true).first {
+            let cookiesPath = (libraryPath as NSString).appendingPathComponent("Cookies")
+            FileManager.default.removeItemAndContents(path: cookiesPath)
+        }
+
+        // Remove the in-memory history that WebKit maintains.
+        if let clazz = NSClassFromString("Web" + "History") as? NSObjectProtocol {
+            if clazz.responds(to: Selector(("optional" + "Shared" + "History"))) {
+                if let webHistory = clazz.perform(Selector(("optional" + "Shared" + "History"))) {
+                    let o = webHistory.takeUnretainedValue()
+                    _ = o.perform(Selector(("remove" + "All" + "Items")))
+                }
+            }
+        }
+    }
+}

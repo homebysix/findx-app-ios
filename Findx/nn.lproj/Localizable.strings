@@ -1,0 +1,252 @@
+/* Button on About screen */
+"About.learnMoreButton" = "Lær meir";
+
+/* Label on About screen */
+"About.missionLabel" = "%@ er produsert av Mozilla. Vår misjon er å fremja eit sunt, ope internett.";
+
+/* Label on About screen */
+"About.privateBullet1" = "Søk og surf rett i appen";
+
+/* Label on About screen */
+"About.privateBullet2" = "Blokker sporfølgjarar (eller oppdater innstillingane for å tillata sporfølgjarar)";
+
+/* Label on About screen */
+"About.privateBullet3" = "Slett for å fjerna informasjonskapslar samt søk- og nettlesarhistorikk";
+
+/* Label on About screen */
+"About.privateBulletHeader" = "Bruk han som ein privat nettlesar:";
+
+/* Label for row in About screen */
+"About.rowHelp" = "Hjelp";
+
+/* Link to Privacy Notice in the About screen */
+"About.rowPrivacy" = "Personvernerklæring";
+
+/* Label for row in About screen */
+"About.rowRights" = "Dine rettar";
+
+/* Label on About screen */
+"About.safariBullet1" = "Blokker sporfølgjarar for betre personvern";
+
+/* Label on About screen */
+"About.safariBullet2" = "Blokker nettskrifter for å redusera sidestørrelsen";
+
+/* Label on About screen */
+"About.safariBulletHeader" = "Bruk han som ei Safari-utviding:";
+
+/* Title for the About screen */
+"About.screenTitle" = "Om";
+
+/* Label on About screen */
+"About.topLabel" = "%@ gjev deg kontroll.";
+
+/* Accessibility label for the back button */
+"Browser.backLabel" = "Tilbake";
+
+/* Accessibility label for the forward button */
+"Browser.forwardLabel" = "Fram";
+
+/* Accessibility label for the reload button */
+"Browser.reloadLabel" = "Oppdater";
+
+/* Accessibility label for the settings button */
+"Browser.settingsLabel" = "Innstillingar";
+
+/* Accessibility label for the share button */
+"Browser.shareLabel" = "Del";
+
+/* Accessibility label for the stop button */
+"Browser.stopLabel" = "Stopp";
+
+/* Button label to reload the error page */
+"Error.tryAgainButton" = "Prøv igjen";
+
+/* Button label used for cancelling to open another app from Focus */
+"ExternalAppLink.cancelTitle" = "Avbryt";
+
+/* Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar. */
+"ExternalAppLink.messageTitle" = "%@ ønskjer å opne ein annan app";
+
+/* Button label for opening another app from Focus */
+"ExternalAppLink.openTitle" = "Opne";
+
+/* Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.callButton" = "Ring";
+
+/* Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.cancelButton" = "Avbryt";
+
+/* Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.emailButton" = "E-post";
+
+/* Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.messageTitleWithPlaceholder" = "Du forlèt no %@.";
+
+/* Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openAppStoreButton" = "Opna App Store";
+
+/* Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. */
+"ExternalLink.openAppStoreTitle" = "%@ ønskjer å opne App Store.";
+
+/* Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openMapsButton" = "Opna kart";
+
+/* Label on button to dismiss first run UI */
+"FirstRun.buttonLabel" = "OK, EG FORSTÅR DET!";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelDescription" = "Automatisk blokkering av sporfølgjarar medan du surfar. Deretter trykkjer du for å sletta besøkte sider, søk, informasjonskapslar og passord frå eininga.";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelTagline" = "Surf som om ingen ser på.";
+
+/* Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681 */
+"Focus.handoffSyncing" = "Apple Handoff synkroniserer";
+
+/* First label for product description on the home screen */
+"Home.descriptionLabel1" = "Automatisk privat nettlesing.";
+
+/* Second label for product description on the home screen */
+"Home.descriptionLabel2" = "Surf. Slett. Repeter.";
+
+/* Label in share alert to cancel the alert */
+"Open.Cancel" = "Avbryt";
+
+/* Label in share alert to open the URL in Firefox */
+"Open.Firefox" = "Firefox (privat nettlesing)";
+
+/* Label in share alert to open the full system share menu */
+"Open.More" = "Meir";
+
+/* Label in share alert to open the URL in Safari */
+"Open.Safari" = "Safari";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsContentBlockers" = "Trykk Safari, vel deretter innhaldsblokkerarar";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsEnable" = "Slå på %@";
+
+/* Error label when the blocker is not enabled, shown in the intro and main app when disabled */
+"Safari.instructionsNotEnabled" = "%@ er ikkje slått på.";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsOpen" = "Opna innstillingar-appen";
+
+/* Alert message shown when toggling the Content blocker */
+"Settings.blockOtherMessage" = "Blokkering av andre innhaldssporfølgjarar, kan øydeleggja nokre videoar og nettsider.";
+
+/* Button label for declining Content blocker alert */
+"Settings.blockOtherNo" = "Nei, takk";
+
+/* Button label for accepting Content blocker alert */
+"Settings.blockOtherYes" = "Eg forstår";
+
+/* Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar) */
+"Settings.detailTextSendUsageData" = "Mozilla strevar etter å berre samle inn det vi treng for å tilby og forbetre %@ for alle.";
+
+/* Subtitle for Send Anonymous Usage Data toggle on main screen */
+"Settings.learnMore" = "Les meir.";
+
+/* Title for settings screen */
+"Settings.screenTitle" = "Innstillingar";
+
+/* Title for the search engine row */
+"Settings.searchSection" = "SØKJEMOTOR";
+
+/* Title for the search engine selection screen */
+"Settings.searchTitle" = "Søkjemotor";
+
+/* Label for Safari integration section */
+"Settings.sectionIntegration" = "INTEGRASJON";
+
+/* Section label for Mozilla toggles */
+"Settings.sectionMozilla" = "MOZILLA";
+
+/* Section label for performance toggles */
+"Settings.sectionPerformance" = "YTING";
+
+/* Section label for privacy toggles */
+"Settings.sectionPrivacy" = "PERSONVERN";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAds" = "Blokker sporfølgjarar for reklame";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAnalytics" = "Blokker sporfølgjarar for analyser";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockFonts" = "Blokker nettskrifter";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockOther" = "Blokker andre innhaldssporfølgjarar";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockSocial" = "Blokker sporfølgjarar for sosiale media";
+
+/* Label subtitle for toggle on main screen */
+"Settings.toggleOtherSubtitle" = "Kan øydeleggja nokre videoar og nettsider";
+
+/* Safari toggle label on settings screen */
+"Settings.toggleSafari" = "Safari";
+
+/* Label for Send Usage Data toggle on main screen */
+"Settings.toggleSendUsageData" = "Send bruksdata";
+
+/* Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string. */
+"ShareMenu.GetFirefox" = "Hent Firefox-appen";
+
+/* Text for the share menu option when a user wants to open a page in Focus. */
+"ShareMenu.OpenInFocus" = "Opne i %@";
+
+/* Label for cancel button shown when entering a URL or search */
+"URL.cancelLabel" = "Avbryt";
+
+/* Text for the URL context menu when a user long presses on the URL bar with clipboard contents. */
+"URL.contextMenu" = "Lim inn og opne";
+
+/* Erase button in the URL bar */
+"URL.eraseButtonLabel" = "SLETT";
+
+/* Message shown after pressing the Erase button */
+"URL.eraseMessageLabel" = "Nettlesarhistorikken din er sletta.";
+
+/* Placeholder text shown in the URL bar before the user navigates to a page */
+"URL.placeholderText" = "Søk eller skriv inn ei adresse";
+
+/* Label displayed for search button when typing in the URL bar */
+"URL.searchLabel" = "Søk etter %@";
+
+/* Text for the URL bar showing the number of trackers blocked on a webpage. */
+"URL.trackersBlockedLabel" = "Sporfølgjarar blokkerte";
+
+/* Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page. */
+"actionSheet.openIn" = "Opne i %@";
+
+/* Text for the context menu when a user has a link on their clipboard. */
+"contextMenu.clipboardLink" = "Lenka du kopierte: %@";
+
+/* Text for the context menu when a user wants to copy an image after long pressing it. */
+"contextMenu.copyImageTitle" = "Kopier bilde";
+
+/* Text for the context menu when a user wants to copy a link after long pressing it. */
+"contextMenu.copyLink" = "Kopier lenke";
+
+/* Text for the context menu when a user wants to save an image after long pressing it. */
+"contextMenu.saveImageTitle" = "Lagre bilde";
+
+/* Text for the context menu when a user wants to share a link after long pressing it. */
+"contextMenu.shareLinkTitle" = "Del lenke";
+
+/* Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open. */
+"externalAppLinkWithAppName.messageTitle" = "%1$@ ønskjer å opne %2$@";
+
+/* Description for dialog used for requesting a user to enable access to Photos. */
+"photosPermission.description" = "Dette lèt deg lagre bilde til kamerarullen din";
+
+/* Title for button that takes the user to system settings */
+"photosPermission.openSettings" = "Opne innstillingar";
+
+/* Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar */
+"photosPermission.title" = "“%@” ønskjer tilgang til bilda dine";
+

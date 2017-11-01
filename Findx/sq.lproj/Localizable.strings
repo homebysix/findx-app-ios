@@ -1,0 +1,189 @@
+/* Button on About screen */
+"About.learnMoreButton" = "Mësoni më tepër";
+
+/* Label on About screen */
+"About.missionLabel" = "%@ prodhohet nga Mozilla. Misioni ynë është të përkujdesemi për një Internet të shëndetshëm, të hapur.";
+
+/* Label on About screen */
+"About.privateBullet1" = "Kërkoni dhe shfletoni drejt e nga aplikacioni";
+
+/* Label on About screen */
+"About.privateBullet2" = "Bllokoni gjurmues (ose përditësoni rregullimet që të lejoni gjurmues)";
+
+/* Label on About screen */
+"About.privateBullet3" = "Fshijeni që të fshihen cookie-t, si dhe historik kërkimesh dhe shfletimesh";
+
+/* Label on About screen */
+"About.privateBulletHeader" = "Përdoreni si shfletues privat:";
+
+/* Label for row in About screen */
+"About.rowHelp" = "Ndihmë";
+
+/* Label for row in About screen */
+"About.rowRights" = "Të drejtat Tuaja";
+
+/* Label on About screen */
+"About.safariBullet1" = "Për përmirësim të privatësisë, bllokoni gjurmuesit";
+
+/* Label on About screen */
+"About.safariBullet2" = "Bllokoni shkronja Web që të zvogëlohet madhësia e faqes";
+
+/* Label on About screen */
+"About.safariBulletHeader" = "Përdoreni si një zgjerim të Safari-t:";
+
+/* Title for the About screen */
+"About.screenTitle" = "Rreth";
+
+/* Label on About screen */
+"About.topLabel" = "%@ jua lë juve kontrollin.";
+
+/* Accessibility label for the back button */
+"Browser.backLabel" = "Mbrapsht";
+
+/* Accessibility label for the forward button */
+"Browser.forwardLabel" = "Përpara";
+
+/* Accessibility label for the reload button */
+"Browser.reloadLabel" = "Ringarkoje";
+
+/* Accessibility label for the settings button */
+"Browser.settingsLabel" = "Rregullime";
+
+/* Accessibility label for the share button */
+"Browser.shareLabel" = "Ndajeni me të tjerë";
+
+/* Accessibility label for the stop button */
+"Browser.stopLabel" = "Ndale";
+
+/* Button label to reload the error page */
+"Error.tryAgainButton" = "Riprovoni";
+
+/* Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.callButton" = "Thirrje";
+
+/* Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.cancelButton" = "Anuloje";
+
+/* Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.emailButton" = "Email";
+
+/* Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.messageTitleWithPlaceholder" = "Tani po dilni nga %@.";
+
+/* Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openAppStoreButton" = "Hapni Shitoren e Aplikacioneve";
+
+/* Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openMapsButton" = "Hapni Harta";
+
+/* Label on button to dismiss first run UI */
+"FirstRun.buttonLabel" = "OK, E MORA VESH!";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelDescription" = "Bllokojini vetvetiu gjurmuesit në internet, teksa shfletoni. Mandej prekeni, që të fshihen nga pajisja juaj faqe të vizituara, kërkime, cookies dhe fjalëkalime.";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelTagline" = "Shfletoni sikur të mos ju vëzhgonte njeri.";
+
+/* First label for product description on the home screen */
+"Home.descriptionLabel1" = "Shfletim privat i vetvetishëm.";
+
+/* Second label for product description on the home screen */
+"Home.descriptionLabel2" = "Shfletoni. Fshini. Nga e para.";
+
+/* Label in share alert to cancel the alert */
+"Open.Cancel" = "Anuloje";
+
+/* Label in share alert to open the URL in Firefox */
+"Open.Firefox" = "Firefox (Shfletim Privat)";
+
+/* Label in share alert to open the full system share menu */
+"Open.More" = "Më tepër";
+
+/* Label in share alert to open the URL in Safari */
+"Open.Safari" = "Safari";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsContentBlockers" = "Prekni Safari-n, mandej përzgjidhni Bllokues Lënde";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsEnable" = "Aktivizo %@";
+
+/* Error label when the blocker is not enabled, shown in the intro and main app when disabled */
+"Safari.instructionsNotEnabled" = "%@ s’është aktivizuar.";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsOpen" = "Hapni Aplikacion Rregullimesh";
+
+/* Alert message shown when toggling the Content blocker */
+"Settings.blockOtherMessage" = "Bllokimi i gjurmuesve të tjerë mund të pengojë funksionimin e disa videove dhe faqeve Web.";
+
+/* Button label for declining Content blocker alert */
+"Settings.blockOtherNo" = "Jo, Faleminderit";
+
+/* Button label for accepting Content blocker alert */
+"Settings.blockOtherYes" = "E kuptoj";
+
+/* Title for settings screen */
+"Settings.screenTitle" = "Rregullime";
+
+/* Title for the search engine row */
+"Settings.searchSection" = "MOTOR KËRKIMESH";
+
+/* Title for the search engine selection screen */
+"Settings.searchTitle" = "Motor Kërkimesh";
+
+/* Label for Safari integration section */
+"Settings.sectionIntegration" = "INTEGRIM";
+
+/* Section label for Mozilla toggles */
+"Settings.sectionMozilla" = "MOZILLA";
+
+/* Section label for performance toggles */
+"Settings.sectionPerformance" = "PUNIM";
+
+/* Section label for privacy toggles */
+"Settings.sectionPrivacy" = "PRIVATËSI";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAds" = "Blloko gjurmues reklamash";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAnalytics" = "Blloko gjurmues analizash";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockFonts" = "Blloko shkronja Web";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockOther" = "Blloko të tjerë gjurmues lënde";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockSocial" = "Blloko gjurmues platformash shoqërore";
+
+/* Label subtitle for toggle on main screen */
+"Settings.toggleOtherSubtitle" = "Mund të pengojë funksionimin e disa videove dhe faqeve Web";
+
+/* Safari toggle label on settings screen */
+"Settings.toggleSafari" = "Safari";
+
+/* Label for Send Anonymous Usage Data toggle on main screen */
+"Settings.toggleSendAnonymousUsageData" = "Dërgo të dhëna anonime përdorimi";
+
+/* Subtitle for Send Anonymous Usage Data toggle on main screen */
+"Settings.toggleSendAnonymousUsageDataSubtitle" = "Mësoni më tepër";
+
+/* Label for cancel button shown when entering a URL or search */
+"URL.cancelLabel" = "Anuloje";
+
+/* Erase button in the URL bar */
+"URL.eraseButtonLabel" = "FSHIJE";
+
+/* Message shown after pressing the Erase button */
+"URL.eraseMessageLabel" = "Historiku juaj i shfletimit u fshi.";
+
+/* Placeholder text shown in the URL bar before the user navigates to a page */
+"URL.placeholderText" = "Kërkoni ose jepni një adresë";
+
+/* Label displayed for search button when typing in the URL bar */
+"URL.searchLabel" = "Kërko për %@";
+

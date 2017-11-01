@@ -1,0 +1,252 @@
+/* Button on About screen */
+"About.learnMoreButton" = "詳細情報";
+
+/* Label on About screen */
+"About.missionLabel" = "%@ は Mozilla による製品です。私たちの使命は、健全でオープンなインターネットを育成することです。";
+
+/* Label on About screen */
+"About.privateBullet1" = "アプリ内で検索とブラウジングをします";
+
+/* Label on About screen */
+"About.privateBullet2" = "追跡をブロックします (または設定変更により追跡を許可します)";
+
+/* Label on About screen */
+"About.privateBullet3" = "検索履歴やページの表示履歴に加えて Cookie を消去します";
+
+/* Label on About screen */
+"About.privateBulletHeader" = "プライベートブラウザーとして使用すると:";
+
+/* Label for row in About screen */
+"About.rowHelp" = "ヘルプ";
+
+/* Link to Privacy Notice in the About screen */
+"About.rowPrivacy" = "プライバシー通知";
+
+/* Label for row in About screen */
+"About.rowRights" = "あなたの権利";
+
+/* Label on About screen */
+"About.safariBullet1" = "追跡をブロックしてプライバシーを保護します";
+
+/* Label on About screen */
+"About.safariBullet2" = "ウェブフォントをブロックしてページのデータ転送量を削減します";
+
+/* Label on About screen */
+"About.safariBulletHeader" = "Safari の拡張機能として使用すると:";
+
+/* Title for the About screen */
+"About.screenTitle" = "製品情報";
+
+/* Label on About screen */
+"About.topLabel" = "%@ でプライバシーを管理できます。";
+
+/* Accessibility label for the back button */
+"Browser.backLabel" = "戻る";
+
+/* Accessibility label for the forward button */
+"Browser.forwardLabel" = "進む";
+
+/* Accessibility label for the reload button */
+"Browser.reloadLabel" = "再読み込み";
+
+/* Accessibility label for the settings button */
+"Browser.settingsLabel" = "環境設定";
+
+/* Accessibility label for the share button */
+"Browser.shareLabel" = "共有";
+
+/* Accessibility label for the stop button */
+"Browser.stopLabel" = "中止";
+
+/* Button label to reload the error page */
+"Error.tryAgainButton" = "再試行";
+
+/* Button label used for cancelling to open another app from Focus */
+"ExternalAppLink.cancelTitle" = "キャンセル";
+
+/* Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar. */
+"ExternalAppLink.messageTitle" = "%@ が別のアプリを開こうとしています";
+
+/* Button label for opening another app from Focus */
+"ExternalAppLink.openTitle" = "開く";
+
+/* Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.callButton" = "発信";
+
+/* Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.cancelButton" = "キャンセル";
+
+/* Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.emailButton" = "メール送信";
+
+/* Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.messageTitleWithPlaceholder" = "%@ を離れようとしています。";
+
+/* Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openAppStoreButton" = "App Store を開く";
+
+/* Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. */
+"ExternalLink.openAppStoreTitle" = "%@ が App Store を開こうとしています。";
+
+/* Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openMapsButton" = "マップを開く";
+
+/* Label on button to dismiss first run UI */
+"FirstRun.buttonLabel" = "OK! 使います";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelDescription" = "ブラウジング中のオンライン追跡を自動的にブロックします。タップするだけで、訪問したページ、検索履歴、Cookie、パスワードを端末から消去できます。";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelTagline" = "誰にも監視されないブラウジング。";
+
+/* Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681 */
+"Focus.handoffSyncing" = "Apple Handoff が同期中です";
+
+/* First label for product description on the home screen */
+"Home.descriptionLabel1" = "プライベートブラウジングを自動的に。";
+
+/* Second label for product description on the home screen */
+"Home.descriptionLabel2" = "ブラウズ、消去の繰り返し。";
+
+/* Label in share alert to cancel the alert */
+"Open.Cancel" = "キャンセル";
+
+/* Label in share alert to open the URL in Firefox */
+"Open.Firefox" = "Firefox (プライベートブラウジング)";
+
+/* Label in share alert to open the full system share menu */
+"Open.More" = "その他";
+
+/* Label in share alert to open the URL in Safari */
+"Open.Safari" = "Safari";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsContentBlockers" = "Safari をタップしてコンテンツブロッカーを選択します";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsEnable" = "%@ を有効化";
+
+/* Error label when the blocker is not enabled, shown in the intro and main app when disabled */
+"Safari.instructionsNotEnabled" = "%@ を有効にしましょう。";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsOpen" = "環境設定アプリを開きます";
+
+/* Alert message shown when toggling the Content blocker */
+"Settings.blockOtherMessage" = "他の追跡コンテンツをブロックすると、動画やウェブページが正常に表示されない場合があります。";
+
+/* Button label for declining Content blocker alert */
+"Settings.blockOtherNo" = "ブロックしない";
+
+/* Button label for accepting Content blocker alert */
+"Settings.blockOtherYes" = "ブロックする";
+
+/* Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar) */
+"Settings.detailTextSendUsageData" = "Mozilla は %@ を皆さんに提供し改善するために必要な情報だけを収集するよう努めています。";
+
+/* Subtitle for Send Anonymous Usage Data toggle on main screen */
+"Settings.learnMore" = "詳しくはこちら";
+
+/* Title for settings screen */
+"Settings.screenTitle" = "環境設定";
+
+/* Title for the search engine row */
+"Settings.searchSection" = "検索エンジン";
+
+/* Title for the search engine selection screen */
+"Settings.searchTitle" = "検索エンジン";
+
+/* Label for Safari integration section */
+"Settings.sectionIntegration" = "統合";
+
+/* Section label for Mozilla toggles */
+"Settings.sectionMozilla" = "MOZILLA";
+
+/* Section label for performance toggles */
+"Settings.sectionPerformance" = "パフォーマンス";
+
+/* Section label for privacy toggles */
+"Settings.sectionPrivacy" = "プライバシー";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAds" = "追跡広告をブロック";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAnalytics" = "アクセス解析をブロック";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockFonts" = "ウェブフォントをブロック";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockOther" = "他の追跡コンテンツをブロック";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockSocial" = "ソーシャル追跡をブロック";
+
+/* Label subtitle for toggle on main screen */
+"Settings.toggleOtherSubtitle" = "動画やウェブページが正常に表示されない場合があります";
+
+/* Safari toggle label on settings screen */
+"Settings.toggleSafari" = "Safari";
+
+/* Label for Send Usage Data toggle on main screen */
+"Settings.toggleSendUsageData" = "使用状況データを送信";
+
+/* Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string. */
+"ShareMenu.GetFirefox" = "Firefox アプリを入手する";
+
+/* Text for the share menu option when a user wants to open a page in Focus. */
+"ShareMenu.OpenInFocus" = "%@ で開く";
+
+/* Label for cancel button shown when entering a URL or search */
+"URL.cancelLabel" = "キャンセル";
+
+/* Text for the URL context menu when a user long presses on the URL bar with clipboard contents. */
+"URL.contextMenu" = "ペーストして移動";
+
+/* Erase button in the URL bar */
+"URL.eraseButtonLabel" = "消去";
+
+/* Message shown after pressing the Erase button */
+"URL.eraseMessageLabel" = "ページの表示履歴が消去されました。";
+
+/* Placeholder text shown in the URL bar before the user navigates to a page */
+"URL.placeholderText" = "検索語またはアドレスを入力";
+
+/* Label displayed for search button when typing in the URL bar */
+"URL.searchLabel" = "%@ を検索";
+
+/* Text for the URL bar showing the number of trackers blocked on a webpage. */
+"URL.trackersBlockedLabel" = "追跡をブロックしました";
+
+/* Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page. */
+"actionSheet.openIn" = "%@ で開く";
+
+/* Text for the context menu when a user has a link on their clipboard. */
+"contextMenu.clipboardLink" = "コピーしたリンク: %@";
+
+/* Text for the context menu when a user wants to copy an image after long pressing it. */
+"contextMenu.copyImageTitle" = "画像をコピー";
+
+/* Text for the context menu when a user wants to copy a link after long pressing it. */
+"contextMenu.copyLink" = "リンクアドレスをコピー";
+
+/* Text for the context menu when a user wants to save an image after long pressing it. */
+"contextMenu.saveImageTitle" = "画像を保存";
+
+/* Text for the context menu when a user wants to share a link after long pressing it. */
+"contextMenu.shareLinkTitle" = "リンクを共有";
+
+/* Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open. */
+"externalAppLinkWithAppName.messageTitle" = "%1$@ が %2$@ を開こうとしています";
+
+/* Description for dialog used for requesting a user to enable access to Photos. */
+"photosPermission.description" = "これにより画像をカメラロールに保存できるようになります";
+
+/* Title for button that takes the user to system settings */
+"photosPermission.openSettings" = "環境設定を開く";
+
+/* Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar */
+"photosPermission.title" = "「%@」が写真へのアクセスを求めています";
+

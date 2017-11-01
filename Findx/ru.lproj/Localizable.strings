@@ -1,0 +1,252 @@
+/* Button on About screen */
+"About.learnMoreButton" = "Подробнее";
+
+/* Label on About screen */
+"About.missionLabel" = "%@ создан Mozilla. Нашей миссией является обеспечение здоровья и открытости Интернета.";
+
+/* Label on About screen */
+"About.privateBullet1" = "Ищите и сёрфите прямо из приложения";
+
+/* Label on About screen */
+"About.privateBullet2" = "Блокируйте трекеры (или обновите параметры, чтобы разрешить трекеры)";
+
+/* Label on About screen */
+"About.privateBullet3" = "Стирайте, чтобы удалить куки, а также историю поиска и веб-сёрфинга";
+
+/* Label on About screen */
+"About.privateBulletHeader" = "Используйте его как приватный браузер:";
+
+/* Label for row in About screen */
+"About.rowHelp" = "Справка";
+
+/* Link to Privacy Notice in the About screen */
+"About.rowPrivacy" = "Уведомление о приватности";
+
+/* Label for row in About screen */
+"About.rowRights" = "Ваши права";
+
+/* Label on About screen */
+"About.safariBullet1" = "Блокируйте трекеры для повышения приватности";
+
+/* Label on About screen */
+"About.safariBullet2" = "Блокируйте веб-шрифты для уменьшения размера страниц";
+
+/* Label on About screen */
+"About.safariBulletHeader" = "Используйте его как расширение Safari:";
+
+/* Title for the About screen */
+"About.screenTitle" = "О программе";
+
+/* Label on About screen */
+"About.topLabel" = "%@ передаёт контроль в ваши руки.";
+
+/* Accessibility label for the back button */
+"Browser.backLabel" = "Назад";
+
+/* Accessibility label for the forward button */
+"Browser.forwardLabel" = "Вперёд";
+
+/* Accessibility label for the reload button */
+"Browser.reloadLabel" = "Обновить";
+
+/* Accessibility label for the settings button */
+"Browser.settingsLabel" = "Параметры";
+
+/* Accessibility label for the share button */
+"Browser.shareLabel" = "Поделиться";
+
+/* Accessibility label for the stop button */
+"Browser.stopLabel" = "Остановить";
+
+/* Button label to reload the error page */
+"Error.tryAgainButton" = "Попробовать снова";
+
+/* Button label used for cancelling to open another app from Focus */
+"ExternalAppLink.cancelTitle" = "Отмена";
+
+/* Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar. */
+"ExternalAppLink.messageTitle" = "%@ хочет открыть другое приложение";
+
+/* Button label for opening another app from Focus */
+"ExternalAppLink.openTitle" = "Открыть";
+
+/* Button label in tel: dialog to call a phone number. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.callButton" = "Позвонить";
+
+/* Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.cancelButton" = "Отмена";
+
+/* Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.emailButton" = "Эл. почта";
+
+/* Dialog title used for Maps/App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.messageTitleWithPlaceholder" = "Вы выходите из %@.";
+
+/* Button label in App Store URL dialog to open the App Store. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openAppStoreButton" = "Открыть App Store";
+
+/* Dialog title used to open App Store links. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. */
+"ExternalLink.openAppStoreTitle" = "%@ хочет открыть App Store.";
+
+/* Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
+"ExternalLink.openMapsButton" = "Открыть карты";
+
+/* Label on button to dismiss first run UI */
+"FirstRun.buttonLabel" = "Я понял!";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelDescription" = "Автоматически блокируйте онлайн-трекеры во время веб-сёрфинга. Затем нажмите кнопку, чтобы стереть посещённые страницы, поиски, куки и пароли со своего устройства.";
+
+/* Message label on the first run screen */
+"FirstRun.messageLabelTagline" = "Сёрфите Интернет не опасаясь слежки.";
+
+/* Title for the loading screen when the handoff of clipboard delays Focus launch. “Handoff” should not be localized, see https://support.apple.com/HT204681 */
+"Focus.handoffSyncing" = "Синхронизация Apple Handoff";
+
+/* First label for product description on the home screen */
+"Home.descriptionLabel1" = "Автоматический приватный просмотр.";
+
+/* Second label for product description on the home screen */
+"Home.descriptionLabel2" = "Просмотреть. Стереть. Повторить.";
+
+/* Label in share alert to cancel the alert */
+"Open.Cancel" = "Отмена";
+
+/* Label in share alert to open the URL in Firefox */
+"Open.Firefox" = "Firefox (Приватный просмотр)";
+
+/* Label in share alert to open the full system share menu */
+"Open.More" = "Ещё";
+
+/* Label in share alert to open the URL in Safari */
+"Open.Safari" = "Safari";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsContentBlockers" = "Нажмите Safari, затем выберите Правила блокирования контента";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsEnable" = "Включите %@";
+
+/* Error label when the blocker is not enabled, shown in the intro and main app when disabled */
+"Safari.instructionsNotEnabled" = "%@ не включён.";
+
+/* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
+"Safari.instructionsOpen" = "Откройте параметры приложения";
+
+/* Alert message shown when toggling the Content blocker */
+"Settings.blockOtherMessage" = "Блокирование других трекеров содержимого может нарушить работу некоторых видео и веб-страниц.";
+
+/* Button label for declining Content blocker alert */
+"Settings.blockOtherNo" = "Нет, спасибо";
+
+/* Button label for accepting Content blocker alert */
+"Settings.blockOtherYes" = "Я понимаю";
+
+/* Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar) */
+"Settings.detailTextSendUsageData" = "Mozilla обязуется собирать только ту информацию, которая необходима для работы %@ и его улучшения в будущем.";
+
+/* Subtitle for Send Anonymous Usage Data toggle on main screen */
+"Settings.learnMore" = "Подробнее.";
+
+/* Title for settings screen */
+"Settings.screenTitle" = "Параметры";
+
+/* Title for the search engine row */
+"Settings.searchSection" = "ПОИСКОВАЯ СИСТЕМА";
+
+/* Title for the search engine selection screen */
+"Settings.searchTitle" = "Поисковая система";
+
+/* Label for Safari integration section */
+"Settings.sectionIntegration" = "ИНТЕГРАЦИЯ";
+
+/* Section label for Mozilla toggles */
+"Settings.sectionMozilla" = "MOZILLA";
+
+/* Section label for performance toggles */
+"Settings.sectionPerformance" = "ПРОИЗВОДИТЕЛЬНОСТЬ";
+
+/* Section label for privacy toggles */
+"Settings.sectionPrivacy" = "ПРИВАТНОСТЬ";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAds" = "Блокировать трекеры рекламы";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockAnalytics" = "Блокировать трекеры аналитики";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockFonts" = "Блокировать веб-шрифты";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockOther" = "Блокировать другие трекеры содержимого";
+
+/* Label for toggle on main screen */
+"Settings.toggleBlockSocial" = "Блокировать социальные трекеры";
+
+/* Label subtitle for toggle on main screen */
+"Settings.toggleOtherSubtitle" = "Может нарушить работу некоторых видео и веб-страниц";
+
+/* Safari toggle label on settings screen */
+"Settings.toggleSafari" = "Safari";
+
+/* Label for Send Usage Data toggle on main screen */
+"Settings.toggleSendUsageData" = "Отправлять данные об использовании";
+
+/* Text for the share menu option when a user wants to open a page in Firefox but doesn’t have it installed. This string will not wrap in the interface. Instead, it will truncate. To prevent this, please keep the localized string to 18 or fewer characters. If your string runs longer than 18 characters, you can use 'Get Firefox' as the basis for your string. However, if at all possible, we’d like to signal to the user that they will be going to the App Store and installing the application from there. That is why we are using Get and App in the en-US string. */
+"ShareMenu.GetFirefox" = "Загрузить Firefox";
+
+/* Text for the share menu option when a user wants to open a page in Focus. */
+"ShareMenu.OpenInFocus" = "Открыть в %@";
+
+/* Label for cancel button shown when entering a URL or search */
+"URL.cancelLabel" = "Отмена";
+
+/* Text for the URL context menu when a user long presses on the URL bar with clipboard contents. */
+"URL.contextMenu" = "Вставить и перейти";
+
+/* Erase button in the URL bar */
+"URL.eraseButtonLabel" = "СТЕРЕТЬ";
+
+/* Message shown after pressing the Erase button */
+"URL.eraseMessageLabel" = "Ваша история посещения сайтов была стёрта.";
+
+/* Placeholder text shown in the URL bar before the user navigates to a page */
+"URL.placeholderText" = "Поиск или адрес";
+
+/* Label displayed for search button when typing in the URL bar */
+"URL.searchLabel" = "Поиск %@";
+
+/* Text for the URL bar showing the number of trackers blocked on a webpage. */
+"URL.trackersBlockedLabel" = "Трекеров заблокировано";
+
+/* Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page. */
+"actionSheet.openIn" = "Открыть в %@";
+
+/* Text for the context menu when a user has a link on their clipboard. */
+"contextMenu.clipboardLink" = "Вы скопировали ссылку: %@";
+
+/* Text for the context menu when a user wants to copy an image after long pressing it. */
+"contextMenu.copyImageTitle" = "Копировать изображение";
+
+/* Text for the context menu when a user wants to copy a link after long pressing it. */
+"contextMenu.copyLink" = "Копировать ссылку";
+
+/* Text for the context menu when a user wants to save an image after long pressing it. */
+"contextMenu.saveImageTitle" = "Сохранить изображение";
+
+/* Text for the context menu when a user wants to share a link after long pressing it. */
+"contextMenu.shareLinkTitle" = "Поделиться ссылкой";
+
+/* Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open. */
+"externalAppLinkWithAppName.messageTitle" = "%1$@ хочет открыть %2$@";
+
+/* Description for dialog used for requesting a user to enable access to Photos. */
+"photosPermission.description" = "Это позволит вам сохранять изображения в вашу «Фотопленку»";
+
+/* Title for button that takes the user to system settings */
+"photosPermission.openSettings" = "Открыть Параметры";
+
+/* Dialog title used for requesting a user to enable access to Photos. Placeholder is either Firefox Focus or Firefox Klar */
+"photosPermission.title" = "“%@” хотел бы получить доступ к вашим Фото";
+
